@@ -14,17 +14,17 @@ public class Operators {
 
         int x = 1;
 
-        // System.out.println(werd + blah);
+        System.out.println(werd + blah);
 
-        // System.out.println(i++ * f);
+        System.out.println(i++ * f);
 
-        // System.out.println(i - f);
+        System.out.println(i - f);
 
-        // System.out.println(d / f);
+        System.out.println(d / f);
 
-        // System.out.println(seven % three);
+        System.out.println(seven % three);
 
-        // System.out.println(x += 4);
+        System.out.println(x += 4);
 
         int y = 3;
 

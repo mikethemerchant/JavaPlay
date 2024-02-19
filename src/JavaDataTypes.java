@@ -13,8 +13,8 @@ public class JavaDataTypes {
 
         // non-primitive - object; can be null; start with uppercase
         String mikename = "Michael";
-        String list[];
-        // class
+
+        System.out.println(b + s + l + f);
 
         attempts = attempts + 1; 
 
